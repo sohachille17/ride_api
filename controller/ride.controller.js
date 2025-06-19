@@ -1,7 +1,7 @@
 
-const { Ride } = require('../model/ride.model');
+const { Ride, rideList } = require('../model/ride.model');
 const { simpleData } = require ('../data/simpleData');
-const rideList = [ ];
+
 rideList.push(simpleData);
 
 

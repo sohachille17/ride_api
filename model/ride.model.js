@@ -9,4 +9,5 @@ class Ride {
     }
 }
 
-module.exports = { Ride } ;
+const rideList = [ ];
+module.exports = { Ride , rideList} ;
